@@ -31,7 +31,7 @@ extension CategoryExtension on Category {
 }
 
 void main(){
-  Priority myPriority = Priority.mid;
+  Priority myPriority = Priority.high;
   print(myPriority);
   
   Category myCategory = Category.work;
